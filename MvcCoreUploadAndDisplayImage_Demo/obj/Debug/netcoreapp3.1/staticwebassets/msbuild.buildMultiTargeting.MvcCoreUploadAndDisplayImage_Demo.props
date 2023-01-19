@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MvcCoreUploadAndDisplayImage_Demo.props" />
+</Project>
